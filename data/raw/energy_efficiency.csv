@@ -1,0 +1,6 @@
+,period,state,stateName,timePeriod,sector,sectorName,all-other-costs,customer-incentive,energy-savings,potential-peak-savings,all-other-costs-units,customer-incentive-units,energy-savings-units,potential-peak-savings-units
+0,2024,CO,Colorado,Expected Life Cycle of Programs,COM,commercial,19156,45987,4712819,47.4,thousand dollars,thousand dollars,megawatthours,megawatts
+1,2024,CO,Colorado,Expected Life Cycle of Programs,IND,industrial,4680,8635,1337801,11.4,thousand dollars,thousand dollars,megawatthours,megawatts
+2,2024,CO,Colorado,Expected Life Cycle of Programs,RES,residential,17799,22239,1650936,19.3,thousand dollars,thousand dollars,megawatthours,megawatts
+3,2024,CO,Colorado,Expected Life Cycle of Programs,TOT,all sectors,41635,76861,7701555,78.1,thousand dollars,thousand dollars,megawatthours,megawatts
+4,2024,CO,Colorado,Expected Life Cycle of Programs,TRN,transportation,0,0,0,0,thousand dollars,thousand dollars,megawatthours,megawatts

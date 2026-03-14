@@ -1,0 +1,151 @@
+,period,stateid,stateDescription,sectorid,sectorName,customers,price,revenue,sales,customers-units,price-units,revenue-units,sales-units
+0,2025-01,CO,Colorado,ALL,all sectors,2914754,11.89,586.01664,4930.37936,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+1,2025-01,CO,Colorado,COM,commercial,401239,10.99,194.30356,1767.28252,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+2,2025-01,CO,Colorado,IND,industrial,14648,8.62,109.28408,1267.19704,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+3,2025-01,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+4,2025-01,CO,Colorado,RES,residential,2498866,14.93,281.68825,1887.3316,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+5,2025-01,CO,Colorado,TRA,transportation,1,8.65,.74074,8.5682,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+6,2024-12,CO,Colorado,ALL,all sectors,2999267,11.83,552.75818,4671.8176,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+7,2024-12,CO,Colorado,COM,commercial,407415,11.04,192.71697,1745.28895,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+8,2024-12,CO,Colorado,IND,industrial,14640,8.46,103.84286,1227.5584,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+9,2024-12,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+10,2024-12,CO,Colorado,RES,residential,2577211,15.1,255.5707,1692.22442,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+11,2024-12,CO,Colorado,TRA,transportation,1,9.3,.62765,6.74583,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+12,2024-11,CO,Colorado,ALL,all sectors,2993701,11.82,517.54759,4377.11236,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+13,2024-11,CO,Colorado,COM,commercial,406460,11.67,190.01583,1628.10803,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+14,2024-11,CO,Colorado,IND,industrial,14683,8.07,96.45191,1195.87787,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+15,2024-11,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+16,2024-11,CO,Colorado,RES,residential,2572557,14.9,230.48708,1546.58356,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+17,2024-11,CO,Colorado,TRA,transportation,1,9.06,.59278,6.54291,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+18,2024-10,CO,Colorado,ALL,all sectors,2992093,11.89,531.03983,4468.04493,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+19,2024-10,CO,Colorado,COM,commercial,407472,11.51,199.22504,1731.18691,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+20,2024-10,CO,Colorado,IND,industrial,14752,8.39,104.36451,1244.30949,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+21,2024-10,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+22,2024-10,CO,Colorado,RES,residential,2569868,15.26,226.87479,1486.44823,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+23,2024-10,CO,Colorado,TRA,transportation,1,9.43,.5755,6.1003,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+24,2024-09,CO,Colorado,ALL,all sectors,2987153,12.7,623.22983,4905.76341,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+25,2024-09,CO,Colorado,COM,commercial,406873,12.49,232.84793,1864.68658,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+26,2024-09,CO,Colorado,IND,industrial,14844,9.07,115.59953,1273.88668,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+27,2024-09,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+28,2024-09,CO,Colorado,RES,residential,2565435,15.57,274.11945,1760.75761,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+29,2024-09,CO,Colorado,TRA,transportation,1,10.31,.66292,6.43254,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+30,2024-08,CO,Colorado,ALL,all sectors,2985087,12.8,736.272,5750.04537,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+31,2024-08,CO,Colorado,COM,commercial,406859,12.47,261.09137,2094.42995,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+32,2024-08,CO,Colorado,IND,industrial,14907,9.02,124.53511,1380.56378,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+33,2024-08,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+34,2024-08,CO,Colorado,RES,residential,2563320,15.43,349.9994,2268.49223,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+35,2024-08,CO,Colorado,TRA,transportation,1,9.85,.64612,6.55941,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+36,2024-07,CO,Colorado,ALL,all sectors,2980968,12.81,713.84024,5572.18581,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+37,2024-07,CO,Colorado,COM,commercial,406505,12.69,246.25987,1940.1284,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+38,2024-07,CO,Colorado,IND,industrial,14918,9,122.72727,1364.2482,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+39,2024-07,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+40,2024-07,CO,Colorado,RES,residential,2559544,15.22,344.16766,2260.91591,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+41,2024-07,CO,Colorado,TRA,transportation,1,9.94,.68544,6.8933,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+42,2024-06,CO,Colorado,ALL,all sectors,2974563,12.8,640.81005,5006.50119,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+43,2024-06,CO,Colorado,COM,commercial,405634,12.87,228.08274,1772.13344,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+44,2024-06,CO,Colorado,IND,industrial,14761,9.31,116.13448,1247.01649,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+45,2024-06,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+46,2024-06,CO,Colorado,RES,residential,2554167,14.96,295.79974,1977.58314,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+47,2024-06,CO,Colorado,TRA,transportation,1,8.12,.79309,9.76812,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+48,2024-05,CO,Colorado,ALL,all sectors,2972576,11.59,503.42619,4342.31516,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+49,2024-05,CO,Colorado,COM,commercial,405777,11.38,185.82412,1632.7202,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+50,2024-05,CO,Colorado,IND,industrial,14685,8.52,107.23273,1258.02709,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+51,2024-05,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+52,2024-05,CO,Colorado,RES,residential,2552113,14.52,209.72401,1444.80779,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+53,2024-05,CO,Colorado,TRA,transportation,1,9.55,.64534,6.76008,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+54,2024-04,CO,Colorado,ALL,all sectors,2968980,11.67,479.15001,4106.94771,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+55,2024-04,CO,Colorado,COM,commercial,405297,11.43,183.13593,1602.41941,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+56,2024-04,CO,Colorado,IND,industrial,14677,8.67,99.24726,1144.45777,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+57,2024-04,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+58,2024-04,CO,Colorado,RES,residential,2549005,14.49,196.03606,1352.9445,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+59,2024-04,CO,Colorado,TRA,transportation,1,10.25,.73076,7.12603,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+60,2024-03,CO,Colorado,ALL,all sectors,2965602,11.27,506.30664,4494.4941,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+61,2024-03,CO,Colorado,COM,commercial,404418,10.77,185.55891,1723.01696,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+62,2024-03,CO,Colorado,IND,industrial,14746,8.1,100.59262,1241.36898,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+63,2024-03,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+64,2024-03,CO,Colorado,RES,residential,2546437,14.41,219.41575,1522.75028,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+65,2024-03,CO,Colorado,TRA,transportation,1,10.05,.73936,7.35788,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+66,2024-02,CO,Colorado,ALL,all sectors,2961669,11.59,499.63619,4309.70796,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+67,2024-02,CO,Colorado,COM,commercial,403374,10.96,179.89081,1641.00456,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+68,2024-02,CO,Colorado,IND,industrial,14744,8.54,95.45049,1117.83804,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+69,2024-02,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+70,2024-02,CO,Colorado,RES,residential,2543550,14.48,223.56248,1543.66022,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+71,2024-02,CO,Colorado,TRA,transportation,1,10.17,.73242,7.20514,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+72,2024-01,CO,Colorado,ALL,all sectors,2956320,11.47,554.73684,4837.96842,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+73,2024-01,CO,Colorado,COM,commercial,402194,10.85,194.99168,1796.51562,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+74,2024-01,CO,Colorado,IND,industrial,14604,8.17,97.80555,1196.73422,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+75,2024-01,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+76,2024-01,CO,Colorado,RES,residential,2539521,14.22,261.09139,1836.52212,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+77,2024-01,CO,Colorado,TRA,transportation,1,10.35,.84822,8.19646,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+78,2023-12,CO,Colorado,ALL,all sectors,2948669,11.41,537.47428,4709.74919,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+79,2023-12,CO,Colorado,COM,commercial,398964,10.95,191.17688,1745.29404,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+80,2023-12,CO,Colorado,IND,industrial,15271,8.17,100.55349,1230.28108,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+81,2023-12,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+82,2023-12,CO,Colorado,RES,residential,2534432,14.18,244.76267,1726.25364,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+83,2023-12,CO,Colorado,TRA,transportation,2,12.39,.98124,7.92043,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+84,2023-11,CO,Colorado,ALL,all sectors,2945806,11.71,479.58448,4096.5696,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+85,2023-11,CO,Colorado,COM,commercial,399077,11.51,177.3943,1540.89889,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+86,2023-11,CO,Colorado,IND,industrial,15287,8.44,96.68258,1145.59487,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+87,2023-11,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+88,2023-11,CO,Colorado,RES,residential,2531440,14.58,204.56309,1402.89981,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+89,2023-11,CO,Colorado,TRA,transportation,2,13.16,.9445,7.17602,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+90,2023-10,CO,Colorado,ALL,all sectors,2941629,11.56,507.0812,4384.84257,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+91,2023-10,CO,Colorado,COM,commercial,399191,11.48,194.02253,1689.66754,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+92,2023-10,CO,Colorado,IND,industrial,15285,8.35,105.44215,1262.6371,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+93,2023-10,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+94,2023-10,CO,Colorado,RES,residential,2527151,14.5,206.63996,1425.37745,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+95,2023-10,CO,Colorado,TRA,transportation,2,13.64,.97656,7.16048,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+96,2023-09,CO,Colorado,ALL,all sectors,2936708,12.47,595.21597,4772.78956,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+97,2023-09,CO,Colorado,COM,commercial,398304,12.57,224.53474,1785.88378,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+98,2023-09,CO,Colorado,IND,industrial,15347,8.95,115.05909,1286.23107,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+99,2023-09,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+100,2023-09,CO,Colorado,RES,residential,2523055,15.03,254.585,1693.95402,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+101,2023-09,CO,Colorado,TRA,transportation,2,15.43,1.03714,6.72069,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+102,2023-08,CO,Colorado,ALL,all sectors,2936451,12.34,697.69146,5655.4182,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+103,2023-08,CO,Colorado,COM,commercial,399267,12.43,251.25393,2021.3116,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+104,2023-08,CO,Colorado,IND,industrial,15394,8.75,120.79481,1380.56112,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+105,2023-08,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+106,2023-08,CO,Colorado,RES,residential,2521788,14.45,324.64321,2246.38538,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+107,2023-08,CO,Colorado,TRA,transportation,2,13.96,.99951,7.1601,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+108,2023-07,CO,Colorado,ALL,all sectors,2931988,12.16,654.51415,5380.66233,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+109,2023-07,CO,Colorado,COM,commercial,398608,12.24,236.50661,1931.92132,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+110,2023-07,CO,Colorado,IND,industrial,15371,8.88,117.54544,1323.87507,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+111,2023-07,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+112,2023-07,CO,Colorado,RES,residential,2518007,14.14,299.48783,2117.97954,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+113,2023-07,CO,Colorado,TRA,transportation,2,14.15,.97427,6.8864,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+114,2023-06,CO,Colorado,ALL,all sectors,2921353,12.31,543.40481,4415.46764,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+115,2023-06,CO,Colorado,COM,commercial,397343,12.6,208.16225,1651.65476,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+116,2023-06,CO,Colorado,IND,industrial,15349,8.96,109.37292,1220.1217,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+117,2023-06,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+118,2023-06,CO,Colorado,RES,residential,2508659,14.63,224.90836,1537.27202,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+119,2023-06,CO,Colorado,TRA,transportation,2,14.98,.96127,6.41916,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+120,2023-05,CO,Colorado,ALL,all sectors,2924156,11.5,497.31433,4324.3153,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+121,2023-05,CO,Colorado,COM,commercial,396339,11.23,187.21509,1666.66867,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+122,2023-05,CO,Colorado,IND,industrial,15306,8.46,101.85346,1203.8977,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+123,2023-05,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+124,2023-05,CO,Colorado,RES,residential,2512509,14.34,207.16989,1444.22667,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+125,2023-05,CO,Colorado,TRA,transportation,2,11.3,1.07587,9.52226,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+126,2023-04,CO,Colorado,ALL,all sectors,2923693,11.08,468.10387,4225.67239,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+127,2023-04,CO,Colorado,COM,commercial,395954,11.18,177.54386,1587.66242,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+128,2023-04,CO,Colorado,IND,industrial,15544,8.17,101.14304,1237.73532,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+129,2023-04,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+130,2023-04,CO,Colorado,RES,residential,2512193,13.53,188.55059,1393.28645,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+131,2023-04,CO,Colorado,TRA,transportation,2,12.4,.86638,6.9882,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+132,2023-03,CO,Colorado,ALL,all sectors,2921747,11.36,520.18225,4579.80361,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+133,2023-03,CO,Colorado,COM,commercial,395781,11.04,192.64443,1744.44271,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+134,2023-03,CO,Colorado,IND,industrial,15448,8.45,100.49534,1189.33551,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+135,2023-03,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+136,2023-03,CO,Colorado,RES,residential,2510516,13.8,226.07585,1638.21063,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+137,2023-03,CO,Colorado,TRA,transportation,2,12.37,.96664,7.81477,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+138,2023-02,CO,Colorado,ALL,all sectors,2915931,11.43,486.06459,4253.19148,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+139,2023-02,CO,Colorado,COM,commercial,394650,11.25,177.4247,1577.76884,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+140,2023-02,CO,Colorado,IND,industrial,15341,7.74,85.96266,1110.54675,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+141,2023-02,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+142,2023-02,CO,Colorado,RES,residential,2505938,14.23,221.66214,1557.44754,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+143,2023-02,CO,Colorado,TRA,transportation,2,13.67,1.0151,7.42835,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+144,2023-01,CO,Colorado,ALL,all sectors,2913738,11.53,549.89853,4767.33712,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+145,2023-01,CO,Colorado,COM,commercial,394670,10.91,191.3725,1754.55344,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+146,2023-01,CO,Colorado,IND,industrial,15327,8.52,101.19514,1188.03071,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+147,2023-01,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+148,2023-01,CO,Colorado,RES,residential,2503739,14.11,256.23588,1816.03984,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
+149,2023-01,CO,Colorado,TRA,transportation,2,12.57,1.09501,8.71313,number of customers,cents per kilowatt-hour,million dollars,million kilowatt hours
